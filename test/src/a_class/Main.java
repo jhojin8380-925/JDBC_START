@@ -27,7 +27,5 @@ public class Main {
 		
 		p1.printThis();
 		
-//		test 메시지
-		
 	}
 }
